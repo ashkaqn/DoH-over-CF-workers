@@ -8,4 +8,4 @@ client can also get DOH service from your worker on these CF https ports:
 2053,
 2083,
 2096,
-8443,
+8443
